@@ -1,1 +1,1 @@
-# 70 lines BlackJack-C-project on the terminal.
+# 70 lines BlackJack-Csharp-project on the terminal.
