@@ -1,1 +1,1 @@
-# BlackJack-C-project
+# 70 lines BlackJack-C-project on the terminal.
